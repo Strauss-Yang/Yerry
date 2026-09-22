@@ -1,0 +1,12 @@
+# 依赖目录(通过 npm install 自动安装,无需上传)
+node_modules/
+
+# Next.js 构建缓存
+.next/
+
+# 构建输出
+dist/
+
+# 系统文件
+.DS_Store
+Thumbs.db
